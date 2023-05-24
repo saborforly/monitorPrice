@@ -1,0 +1,68 @@
+[2021-04-13 17:13:44,555] MainThread ERROR: failed connect
+[2021-04-13 17:13:44,556] MainThread ERROR: 'NoneType' object is not subscriptable
+[2021-04-13 17:15:42,427] MainThread ERROR: getHtml failed
+[2021-04-13 17:15:42,428] MainThread ERROR: failed connect
+[2021-04-13 17:15:42,428] MainThread ERROR: Can't convert 'SSLError' object to str implicitly
+[2021-04-13 17:15:53,714] MainThread ERROR: getHtml failed
+[2021-04-13 17:15:53,717] MainThread ERROR: failed connect
+[2021-04-13 17:15:53,719] MainThread ERROR: Can't convert 'ProxyError' object to str implicitly
+[2021-04-13 17:16:00,786] MainThread INFO: 可用代理202.61.51.204:3128
+[2021-04-13 17:16:07,239] MainThread INFO: 可用代理165.225.77.47:80
+[2021-04-13 17:16:07,484] MainThread ERROR: getHtml failed
+[2021-04-13 17:16:07,486] MainThread ERROR: failed connect
+[2021-04-13 17:16:07,486] MainThread ERROR: Can't convert 'ProxyError' object to str implicitly
+[2021-04-13 17:16:14,127] MainThread INFO: 可用代理165.225.77.47:9400
+[2021-04-13 17:16:20,757] MainThread INFO: 可用代理165.225.77.47:9443
+[2021-04-13 17:16:30,770] MainThread ERROR: getHtml failed
+[2021-04-13 17:16:30,772] MainThread ERROR: failed connect
+[2021-04-13 17:16:30,773] MainThread ERROR: Can't convert 'ConnectTimeout' object to str implicitly
+[2021-04-13 17:16:31,671] MainThread ERROR: getHtml failed
+[2021-04-13 17:16:31,671] MainThread ERROR: failed connect
+[2021-04-13 17:16:31,671] MainThread ERROR: Can't convert 'ProxyError' object to str implicitly
+[2021-04-13 17:16:38,267] MainThread ERROR: getHtml failed
+[2021-04-13 17:16:38,269] MainThread ERROR: failed connect
+[2021-04-13 17:16:38,269] MainThread ERROR: Can't convert 'SSLError' object to str implicitly
+[2021-04-13 17:16:41,930] MainThread INFO: 可用代理165.225.77.44:80
+[2021-04-13 17:16:44,973] MainThread ERROR: getHtml failed
+[2021-04-13 17:16:44,974] MainThread ERROR: failed connect
+[2021-04-13 17:16:44,976] MainThread ERROR: Can't convert 'SSLError' object to str implicitly
+[2021-04-13 17:16:50,494] MainThread INFO: 可用代理185.4.30.50:3128
+[2021-04-13 17:16:51,398] MainThread ERROR: getHtml failed
+[2021-04-13 17:16:51,400] MainThread ERROR: failed connect
+[2021-04-13 17:16:51,400] MainThread ERROR: Can't convert 'ProxyError' object to str implicitly
+[2021-04-13 17:17:01,729] MainThread ERROR: getHtml failed
+[2021-04-13 17:17:01,730] MainThread ERROR: failed connect
+[2021-04-13 17:17:01,730] MainThread ERROR: Can't convert 'ProxyError' object to str implicitly
+[2021-04-13 17:17:01,730] MainThread ERROR: failed connect
+[2021-04-13 17:17:01,732] MainThread ERROR: 'NoneType' object is not subscriptable
+[2021-04-13 17:17:41,928] MainThread ERROR: getHtml failed
+[2021-04-13 17:17:41,930] MainThread ERROR: failed connect
+[2021-04-13 17:17:41,930] MainThread ERROR: Can't convert 'ProxyError' object to str implicitly
+[2021-04-13 17:17:43,433] MainThread ERROR: getHtml failed
+[2021-04-13 17:17:43,434] MainThread ERROR: failed connect
+[2021-04-13 17:17:43,434] MainThread ERROR: Can't convert 'SSLError' object to str implicitly
+[2021-04-13 17:17:54,710] MainThread ERROR: getHtml failed
+[2021-04-13 17:17:54,713] MainThread ERROR: failed connect
+[2021-04-13 17:17:54,714] MainThread ERROR: Can't convert 'ProxyError' object to str implicitly
+[2021-04-13 17:18:03,029] MainThread INFO: 可用代理165.225.77.47:80
+[2021-04-13 17:18:09,835] MainThread INFO: 可用代理202.61.51.204:3128
+[2021-04-13 17:18:10,088] MainThread ERROR: getHtml failed
+[2021-04-13 17:18:10,089] MainThread ERROR: failed connect
+[2021-04-13 17:18:10,091] MainThread ERROR: Can't convert 'ProxyError' object to str implicitly
+[2021-04-13 17:18:18,301] MainThread INFO: 可用代理165.225.77.47:9400
+[2021-04-13 17:18:26,357] MainThread INFO: 可用代理165.225.77.47:9443
+[2021-04-13 17:18:33,164] MainThread INFO: 可用代理103.28.121.58:80
+[2021-04-13 17:18:42,867] MainThread ERROR: getHtml failed
+[2021-04-13 17:18:42,868] MainThread ERROR: failed connect
+[2021-04-13 17:18:42,868] MainThread ERROR: Can't convert 'SSLError' object to str implicitly
+[2021-04-13 17:18:43,776] MainThread ERROR: getHtml failed
+[2021-04-13 17:18:43,779] MainThread ERROR: failed connect
+[2021-04-13 17:18:43,779] MainThread ERROR: Can't convert 'ProxyError' object to str implicitly
+[2021-04-13 17:18:47,578] MainThread INFO: 可用代理165.225.77.44:80
+[2021-04-13 17:18:51,786] MainThread ERROR: getHtml failed
+[2021-04-13 17:18:51,788] MainThread ERROR: failed connect
+[2021-04-13 17:18:51,789] MainThread ERROR: Can't convert 'SSLError' object to str implicitly
+[2021-04-13 17:18:58,046] MainThread INFO: 可用代理185.4.30.50:3128
+[2021-04-13 17:19:08,463] MainThread INFO: 可用代理143.198.96.14:8080
+[2021-04-13 17:19:08,467] MainThread ERROR: failed connect
+[2021-04-13 17:19:08,467] MainThread ERROR: 'NoneType' object is not subscriptable

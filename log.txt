@@ -1,0 +1,9 @@
+log SendEmail add console handler
+log Sql add console handler
+log BeikeMonitorSpider add console handler
+log SendEmail add console handler
+log Sql add console handler
+log BeikeMonitorSpider add console handler
+log SendEmail add console handler
+log Sql add console handler
+log BeikeMonitorSpider add console handler
